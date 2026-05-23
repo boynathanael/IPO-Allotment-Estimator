@@ -14,9 +14,8 @@ An automated Excel VBA-based tool designed to help retail investors and traders 
 4. Input the IPO parameters and predicted investor count.
 5. Click **"Generate Table"** to view your results.
 
-## Recent Updates
-- Improved Dynamic Retail Ratio logic for better precision.
-Please download the Updated file that I have uploaded to use the latest version.
+## Recent Update
+Improved Dynamic Retail Ratio logic for better precision. Please download the Updated file that I have uploaded to use the latest version.
 
 ## Disclaimer
 This tool provides estimations based on public regulations. Final allotments are determined solely by the Lead Underwriter and the Electronic IPO system.
